@@ -1,4 +1,6 @@
 👨🏻‍💻 Iago
+
+
 Estudante de Engenharia da Computação
 
 Me chamo Iago, tenho 23 anos e sou natural de Belo Horizonte. Atualmente, curso Engenharia da Computação na PUC Minas, onde desenvolvo projetos de circuitos e sistemas embarcados em equipe. Tenho grande interesse por tecnologia, sistemas inteligentes e automação, e busco sempre aprimorar meus conhecimentos através de desafios práticos.

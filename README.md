@@ -1,45 +1,64 @@
-<h1>Olá, eu sou o Iago 👋</h1>
-
-**Estudante de Engenharia de Computação na PUC Minas · Desenvolvedor · Editor de vídeo**
-
-Gosto de construir sistemas que unem hardware e software: de sensores em um ESP32 a aplicativos mobile e modelos de aprendizado de máquina. Sou monitor de Algoritmos e Estruturas de Dados e de Arquitetura de Computadores na PUC Minas e estou em busca de **estágio em desenvolvimento de software, IoT ou machine learning**. Fora do código, edito vídeos, imagens, música e podcasts como freelancer.
-
-<p>
-  <a href="https://www.linkedin.com/in/iago-verciano-romeiro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/@theIAG00"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:iagovromeiro@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center">
+  <img src="assets/banner.svg" alt="Olá, eu sou o Iago" width="100%" />
 </p>
 
-## 🔭 Agora
-
-- 🪰 Treinando uma mosca-das-frutas simulada para jogar Hollow Knight ([Mosca Knight](https://github.com/IagoVRomeiro/mosca-knight))
-- 🧠 Construindo o **PRIME**, meu sistema pessoal (finanças, faculdade, projetos, saúde) com um agente de IA por área
-- 📚 Neste semestre: Arquitetura de Computadores III, Teoria dos Grafos, Circuitos, Linguagens de Programação e Cálculo
-
-## 🚀 Projetos em destaque
-
-**🪰 [Mosca Knight](https://github.com/IagoVRomeiro/mosca-knight)** · Python, C#, MuJoCo, Supabase
-Mosca-das-frutas simulada (NeuroMechFly + MuJoCo), com cérebro baseado no conectoma real FlyWire, que aprende a jogar Hollow Knight só pela imagem da tela. Usa aprendizado por imitação (AWR) e um plugin em C# dentro do jogo para medir desempenho e reiniciar as lutas. 78 versões treinadas e mais de 1.200 partidas em poucos dias.
-
-**🔥 [Keep It Green: prevenção de incêndios com IoT](https://github.com/IagoVRomeiro/PrevencaoIncendio_IOT)** · ESP32, C++, MQTT, Python, MySQL
-Sensores ligados a um ESP32 que detectam chama e condições de risco, enviam alertas em tempo real para um app e acionam irrigação e alarme. 🏆 Destaque do Trabalho Interdisciplinar da PUC Minas (2025).
-
-**🚐 [VanGo](https://github.com/IagoVRomeiro/VanGo)** · Flutter, Firebase, TypeScript
-App que conecta motoristas de van escolar aos alunos, com rota de coleta otimizada, GPS em tempo real, chat e notificações push.
-
-**🧠 PRIME** · React, TypeScript, Supabase, Kotlin, Claude API *(repositório privado)*
-Sistema de gestão pessoal: finanças com cartões e parcelas, faculdade integrada ao Canvas, guias de estudo interativos, redes sociais, saúde via Galaxy Fit3 (app Android com Health Connect) e agentes de IA que leem os dados de cada área.
-
-**⚙️ [Pipeline RISC-V escalar e superescalar](https://github.com/IagoVRomeiro/AC3-Trabalho)** · Assembly RISC-V, LaTeX
-Análise de hazards, forwarding, predição de desvios e execução fora de ordem (Tomasulo) no simulador Ripes.
-
-**💾 [Sistema de dados em arquivos](https://github.com/IagoVRomeiro/Projeto_AEDS3)** · Java
-CRUD em arquivos binários com Árvore B+, Hashing Estendido, compressão Huffman e LZW, casamento de padrões e criptografia de registros.
-
-## 🛠️ Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,dart,ts,react,flutter,firebase,supabase,mysql,arduino,git,linux&perline=15" alt="Tecnologias" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IagoVRomeiro&label=PROFILE%20VIEWS&color=2c3150&style=for-the-badge" alt="Visitas ao perfil" />
+  <img src="https://img.shields.io/github/followers/IagoVRomeiro?label=FOLLOWERS&style=for-the-badge&color=2c3150&logo=github" alt="Seguidores" />
 </p>
 
-🌎 Português (nativo) · Inglês (intermediário) · Francês (elementar)
+<h3 align="center">Quem sou eu?</h3>
+
+<table align="center">
+  <tr>
+    <td width="30%" align="center"><img src="assets/knight.svg" alt="Cavaleiro em pixel art" width="200" /></td>
+    <td>
+      Sou estudante de <code>Engenharia de Computação</code> na <strong>PUC Minas</strong>. Gosto de construir sistemas que unem hardware e software: de sensores em um ESP32 a aplicativos mobile e modelos de aprendizado de máquina.
+      <br /><br />
+      Sou monitor de <code>Algoritmos e Estruturas de Dados</code> e de <code>Arquitetura de Computadores</code> e estou em busca de <strong>estágio em desenvolvimento de software, IoT ou machine learning</strong>.
+      <br /><br />
+      Fora do código, edito vídeos, imagens, música e podcasts como freelancer e no meu canal <a href="https://www.youtube.com/@theIAG00">@theIAG00</a>.
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">⚔️ Um pouco mais sobre mim</h3>
+
+<p align="center">
+  ◼ Fã de Hollow Knight, tanto que ensinei uma mosca-das-frutas simulada a jogar<br />
+  ◼ Construindo o PRIME, meu sistema pessoal com um agente de IA para cada área da vida<br />
+  ◼ Toco violão e treino na academia<br />
+  ◼ Português (nativo) · Inglês (intermediário) · Francês (elementar)
+</p>
+
+<p align="center">
+  <a href="mailto:iagovromeiro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="E-mail" /></a>
+  <a href="https://www.linkedin.com/in/iago-verciano-romeiro/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@theIAG00"><img src="assets/youtube.svg" width="44" alt="YouTube" /></a>
+</p>
+
+<h3 align="center">📊 GitHub Status</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IagoVRomeiro&locale=pt_BR&theme=dark&hide_border=true&background=0D1117&ring=C8D2EE&fire=C8D2EE&currStreakLabel=C8D2EE" alt="Sequência de contribuições" />
+</p>
+
+<h3 align="center">🛠️ Minhas Stacks</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,dart,ts,react,flutter,firebase,supabase,mysql,arduino,git,linux&perline=5" alt="Tecnologias" />
+</p>
+
+<h3 align="center">🗂️ Meus Melhores Repositórios</h3>
+
+<p align="center">
+  <a href="https://github.com/IagoVRomeiro/mosca-knight"><img src="assets/cards/mosca-knight.svg" width="49%" alt="mosca-knight" /></a>
+  <a href="https://github.com/IagoVRomeiro/PrevencaoIncendio_IOT"><img src="assets/cards/PrevencaoIncendio_IOT.svg" width="49%" alt="PrevencaoIncendio_IOT" /></a>
+  <a href="https://github.com/IagoVRomeiro/VanGo"><img src="assets/cards/VanGo.svg" width="49%" alt="VanGo" /></a>
+  <a href="https://github.com/IagoVRomeiro/AC3-Trabalho"><img src="assets/cards/AC3-Trabalho.svg" width="49%" alt="AC3-Trabalho" /></a>
+</p>
+
+<p align="center">
+  Também: o <strong>PRIME</strong> (React, TypeScript, Supabase, Kotlin e Claude API, privado)<br />
+  e um <a href="https://github.com/IagoVRomeiro/Projeto_AEDS3">sistema de dados em arquivos</a> em Java, com Árvore B+, Hashing Estendido, Huffman/LZW e criptografia.
+</p>

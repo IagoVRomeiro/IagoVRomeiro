@@ -17,7 +17,7 @@
       <br /><br />
       Sou monitor de <code>Algoritmos e Estruturas de Dados</code> e de <code>Arquitetura de Computadores</code>.
       <br /><br />
-      Fora do código, edito vídeos, imagens, música e podcasts como freelancer e no meu canal <a href="https://www.youtube.com/@theIAG00">@theIAG00</a>.
+      Fora do código, edito vídeos, imagens, música e podcasts como freelancer.
     </td>
   </tr>
 </table>
@@ -34,7 +34,6 @@
 <p align="center">
   <a href="mailto:iagovromeiro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="E-mail" /></a>
   <a href="https://www.linkedin.com/in/iago-verciano-romeiro/"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@theIAG00"><img src="assets/youtube.svg" width="44" alt="YouTube" /></a>
 </p>
 
 <h3 align="center">📊 GitHub Status</h3>

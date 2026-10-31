@@ -1,150 +1,33 @@
-👨🏻‍💻 Iago
+<h1>Olá, eu sou o Iago 👋</h1>
 
+**Estudante de Engenharia de Computação na PUC Minas · Desenvolvedor de Software**
 
-Estudante de Engenharia da Computação
-
-Me chamo Iago, tenho 23 anos e sou natural de Belo Horizonte. Atualmente, curso Engenharia da Computação na PUC Minas, onde desenvolvo projetos de circuitos e sistemas embarcados em equipe. Tenho grande interesse por tecnologia, sistemas inteligentes e automação, e busco sempre aprimorar meus conhecimentos através de desafios práticos.
-
-Também compartilho aprendizados e experiências sobre desenvolvimento, eletrônica e computação em minhas redes, ajudando outros estudantes e entusiastas a se aprofundarem na área.
-
-<p align="left"> <a href="https://www.youtube.com/@seucanal?sub_confirmation=1"> <img alt="youtube subscribers" title="Inscreva-se no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/SEU_CANAL_ID?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" /> </a> <a href="https://www.youtube.com/@seucanal"> <img alt="youtube views" title="Visualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/SEU_CANAL_ID?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600" /> </a> <a href="https://github.com/seuusuario?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/seuusuario?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/seuusuario?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/seuusuario?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
+Gosto de construir sistemas que unem hardware e software: de sensores em um ESP32 a aplicativos mobile e modelos de aprendizado de máquina. Sou monitor de Algoritmos e Estruturas de Dados e de Arquitetura de Computadores na PUC Minas e estou em busca de **estágio em desenvolvimento de software, IoT ou machine learning**.
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <a href="https://www.linkedin.com/in/iago-verciano-romeiro"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:iagovromeiro@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 🚀 Projetos em destaque
 
+**🪰 Mosca Knight** · Python, C#, Supabase
+Mosca-das-frutas simulada (NeuroMechFly + MuJoCo), com cérebro baseado no conectoma real FlyWire, que aprende a jogar Hollow Knight só pela imagem da tela. Usa aprendizado por imitação (AWR) e um plugin em C# dentro do jogo para medir desempenho e reiniciar as lutas.
+
+**🚐 VanGo** · Flutter, Firebase, TypeScript
+App que conecta motoristas de van escolar aos alunos, com rota de coleta otimizada, GPS em tempo real, chat e notificações push.
+
+**🔥 [Keep It Green: prevenção de incêndios com IoT](https://github.com/IagoVRomeiro/PrevencaoIncendio_IOT)** · ESP32, C++, MQTT, Python, MySQL
+Sensores ligados a um ESP32 que detectam chama e condições de risco, enviam alertas em tempo real para um app e acionam irrigação e alarme. Projeto premiado como Destaque do Trabalho Interdisciplinar da PUC Minas.
+
+**💾 Sistema de dados em arquivos** · Java
+CRUD em arquivos binários com Árvore B+, Hashing Estendido, compressão Huffman e LZW e criptografia de registros.
+
+**⚙️ Pipeline RISC-V escalar e superescalar** · Assembly RISC-V
+Análise de hazards, forwarding, predição de desvios e execução fora de ordem (Tomasulo) no simulador Ripes.
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,cs,dart,ts,flutter,firebase,supabase,mysql,arduino,git,linux&perline=14" alt="Tecnologias" />
 </p>

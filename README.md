@@ -15,7 +15,7 @@
     <td>
       Sou estudante de <code>Engenharia de Computação</code> na <strong>PUC Minas</strong>. Gosto de construir sistemas que unem hardware e software: de sensores em um ESP32 a aplicativos mobile e modelos de aprendizado de máquina.
       <br /><br />
-      Sou monitor de <code>Algoritmos e Estruturas de Dados</code> e de <code>Arquitetura de Computadores</code> e estou em busca de <strong>estágio em desenvolvimento de software, IoT ou machine learning</strong>.
+      Sou monitor de <code>Algoritmos e Estruturas de Dados</code> e de <code>Arquitetura de Computadores</code>.
       <br /><br />
       Fora do código, edito vídeos, imagens, música e podcasts como freelancer e no meu canal <a href="https://www.youtube.com/@theIAG00">@theIAG00</a>.
     </td>
